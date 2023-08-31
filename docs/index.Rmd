@@ -1,5 +1,5 @@
 ---
-title: 'APRESENTAÇÃO DA DISCIPLINA </br> (AULA 01)'
+title: 'O QUE É CIÊNCIA DE DADOS? </br> (AULA 01)'
 subtitle: 'ADM52F - CIÊNCIA DE DADOS PARA FINANÇAS PESSOAIS' 
 author: 
   - 'Prof. Victor Valerio'
